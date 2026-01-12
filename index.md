@@ -576,4 +576,4 @@ And the view from inside is worth the rent.
 
 ---
 
-*Fin.*
+*[Fin.](https://ukb-dt.github.io/journaling-01/)*
