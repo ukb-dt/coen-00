@@ -92,7 +92,7 @@ And toward:
 * metaphors that respect the reader’s intelligence
 * confidence without solemnity
 
-That combination produces sentences that *feel authored*, even though they’re [synthesized](https://ukb-dt.github.io/coen-00/). The “physics-defying drone” line isn’t funny because it’s novel; it’s funny because it **maps CSS positioning onto violated physical intuition**, which is exactly where your frustration lived.
+That combination produces sentences that *feel authored*, even though they’re [synthesized](https://ukb-dt.github.io/journaling-02/). The “physics-defying drone” line isn’t funny because it’s novel; it’s funny because it **maps CSS positioning onto violated physical intuition**, which is exactly where your frustration lived.
 
 So the short version:
 
