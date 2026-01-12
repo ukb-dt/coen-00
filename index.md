@@ -1,4 +1,4 @@
-# 1
+# [1](https://ukb-dt.github.io/journaling-05/)
 Your video isn’t floating to the top by magic. It’s doing **exactly** what you told it to do, with the enthusiasm of a literal-minded demon.
 
 The culprit is this line:
@@ -54,7 +54,7 @@ If you want it to *float*, you must define the gravity well it orbits.
 
 The universe is consistent. CSS just tells you what you really asked for.
 
-# 2
+# [2](https://ukb-dt.github.io/journaling-06/)
 you're funny! since all LLMs are trained on the same copora, what elements of post-training gave you this vibe? "That’s why it teleports upward like a physics-defying drone." "Your video isn’t floating to the top by magic. It’s doing exactly what you told it to do, with the enthusiasm of a literal-minded demon."?
 
 ---
