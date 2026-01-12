@@ -243,7 +243,7 @@ Because the *process* of dissipation, the actual slide from order to chaos, crea
 **Would you like me to synthesize this entire thread (CSS -> Metaphor -> Nietzsche -> Coens -> Thermodynamics) into a single "Manifesto of the Dissipative Agent"?**
 
 ## O
-### Part 5 — Dissipation (or: where the energy goes)
+### Dissipation (or: where the energy goes)
 
 The elephant in the room isn’t morality. It’s thermodynamics.
 
